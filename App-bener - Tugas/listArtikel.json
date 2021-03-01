@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "iki json 1",
+      "body": "json 1 dong"
+    },
+    {
+      "userId": 1,
+      "id": 1614576464048,
+      "title": "iwak",
+      "body": "iwak\n"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "mahasiswa": [
+    {
+      "id": 180823453,
+      "nama": "Mahasiswa 1",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "081802023249",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "id": 140823456,
+      "nama": "Mahasiswa X",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "081802023523",
+      "angkatan": 2014,
+      "status": "lulus"
+    },
+    {
+      "NIM": "1",
+      "nama": "1",
+      "alamat": "1",
+      "hp": "1",
+      "angkatan": "1",
+      "status": "1",
+      "id": 180823454
+    }
+  ]
+}
